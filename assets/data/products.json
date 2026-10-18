@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro",
+      "tagline": "Titanium. So strong. So light. So Pro.",
+      "description": "Eğitim amaçlı yedek veri — internet yokken gösterilir.",
+      "price": "$999",
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/iphone.png"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro 16\"",
+      "tagline": "Mind-blowing. Head-turning.",
+      "description": "Eğitim amaçlı yedek veri — internet yokken gösterilir.",
+      "price": "$2,499",
+      "currency": "USD",
+      "image": "https://wantapi.com/assets/images/macbook.png"
+    }
+  ]
+}
